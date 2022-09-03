@@ -19,6 +19,8 @@ function KabisaYearandDays(year,month) {
         case "Sentyabr":
         case "Noyabr":
         console.log(month, " oyida 30 kun bor"); 
+        default:
+            console.log("Bunday oy yo'q");
     }
 }
 
