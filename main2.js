@@ -6,7 +6,7 @@
    console.log("Talaba");
  } else if (a > 25 && a < 60) {
    console.log(Ishchi);
- } else if {
+ } else if (a>60) {
    console.log("Nafaqaho'r");
  } else {
   console.log("Noto'g'ri raqam kiritdingiz");
